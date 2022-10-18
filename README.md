@@ -2,7 +2,7 @@
  Status: **Finalizado**
  
   ## Descrição do Projeto
-   <p>É um projeto com o objetivo em aprender a criar um página responsiva para desktop e mobile.</p>
+   <p>É um projeto com o objetivo em aprender a criar uma página responsiva.</p>
  
  ## Ferramentas e Tecnologias
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
